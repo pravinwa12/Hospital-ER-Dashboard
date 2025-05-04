@@ -38,6 +38,7 @@ Timeliness: Measure the percentage of patients seen within 30 minutes.
 Gender Analysis: Visualize patient distribution by gender.
 Racial Demographics: Analyze patient data by race.
 Time Analysis: Assess patient volume by day and hour.
+##### Overview
 - <a href="https://github.com/pravinwa12/Hospital-ER-Dashboard/blob/main/Monthly%20View%20Image.png">Dataset</a>
 
 ### Dashboard 2 : Consolidated View
@@ -45,6 +46,7 @@ Time Analysis: Assess patient volume by day and hour.
 Provide a holistic summary of hospital performance for a selected date range.
 ##### Charts to Develop:
 Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis
+##### Overview
 - <a href="https://github.com/pravinwa12/Hospital-ER-Dashboard/blob/main/Consolidated%20View%20Image.png">Dataset</a>
 
 ### Dashboard 3 : Patient Details
@@ -61,6 +63,7 @@ Patient Race
 Wait Time
 Department Referral
 Admission Status
+##### Overview
 - <a href="https://github.com/pravinwa12/Hospital-ER-Dashboard/blob/main/Patient%20Details%20Image.png">Dataset</a>
 
 ### Dashboard 4 : Key takeways
@@ -68,7 +71,26 @@ Admission Status
 Summarize the findings from all dashboards to provide clear and actionable insights for stakeholders.
 ##### Charts to Develop:
 Descriptive analysis of each metric and visualization, including patterns, anomalies, and actionable recommendations to optimize emergency room operations and patient care.
+##### Overview
 - <a href="https://github.com/pravinwa12/Hospital-ER-Dashboard/blob/main/Key%20Takeways%20Image.png">Dataset</a>
+
+## Dashboards Interaction
+### Monthly View
+![Monthly View Image](https://github.com/user-attachments/assets/b6e1fb4f-1a21-4939-90c7-4b26e9518cfc) 
+
+### Consolidated View
+![Consolidated View Image](https://github.com/user-attachments/assets/2ba1ac5f-b1b8-4ce3-bc41-70f473c1985e)
+
+### Patient Details
+![Patient Details Image](https://github.com/user-attachments/assets/90cd983b-773e-4a74-a3e5-d711d884b7b4)
+
+### Key Takeways
+![Key Takeways Image](https://github.com/user-attachments/assets/3a41cc6b-5db6-4e5a-9c84-36c88cbd47b1)
+
+
+
+
+
 
 
 
