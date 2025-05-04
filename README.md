@@ -26,4 +26,51 @@ Present a daily trend using an area sparkline to identify dips in satisfaction a
 #### Number of Patients Referred:
 Count the number of patients referred to specific departments from the ER each day.
 Use an area sparkline to track daily trends and identify departments with high referral rates, which may require additional resources.
+## Dashboards - 4
+### Dashboard 1 : Monthly View
+##### Objective: 
+Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
+##### Charts to Develop:
+Patient Admission Status: Track admitted vs. non-admitted patients.
+Patient Age Distribution: Group patients by 10-year age intervals.
+Department Referrals: Analyze referral trends across different departments.
+Timeliness: Measure the percentage of patients seen within 30 minutes.
+Gender Analysis: Visualize patient distribution by gender.
+Racial Demographics: Analyze patient data by race.
+Time Analysis: Assess patient volume by day and hour.
+- <a href="https://github.com/pravinwa12/Hospital-ER-Dashboard/blob/main/Monthly%20View%20Image.png">Dataset</a>
+
+### Dashboard 2 : Consolidated View
+##### Objective: 
+Provide a holistic summary of hospital performance for a selected date range.
+##### Charts to Develop:
+Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis
+- <a href="https://github.com/pravinwa12/Hospital-ER-Dashboard/blob/main/Consolidated%20View%20Image.png">Dataset</a>
+
+### Dashboard 3 : Patient Details
+##### Objective:
+Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
+##### Charts to Develop: 
+###### A grid displaying essential fields:
+Patient ID
+Patient Full Name
+Gender
+Age
+Admission Date
+Patient Race
+Wait Time
+Department Referral
+Admission Status
+- <a href="https://github.com/pravinwa12/Hospital-ER-Dashboard/blob/main/Patient%20Details%20Image.png">Dataset</a>
+
+### Dashboard 4 : Key takeways
+##### Objective:
+Summarize the findings from all dashboards to provide clear and actionable insights for stakeholders.
+##### Charts to Develop:
+Descriptive analysis of each metric and visualization, including patterns, anomalies, and actionable recommendations to optimize emergency room operations and patient care.
+- <a href="https://github.com/pravinwa12/Hospital-ER-Dashboard/blob/main/Key%20Takeways%20Image.png">Dataset</a>
+
+
+
+
 
